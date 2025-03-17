@@ -35,6 +35,7 @@ We also want to be transparent on the ecological concerns of our e-bikes. The re
 Ethical Safeguard:
 To combat this risk we take absolute responsibility for our batteries, making sure that they are properly recycled to prevent damage to the environment.
 
+
 OKR 2. 
 Objective: Speak with city officials to ensure safety on the road (Samuel)
 E-bikes have become an increasingly popular mode of transportation, offering an efficient, eco-friendly and cost-effective way to travel. 
@@ -66,3 +67,41 @@ Implementing an e-bike safety certification program could also be beneficial. Ri
 Key Result: Promote Community Awareness Programs to Ensure Both E-bike Riders and other Road users Understand safe practices.
 Public education is a vital component of ensuring e-bike safety. Both riders and other road users, such as motorists and pedestrians, should be aware of the unique characteristics of e-bikes and how to share the road safely. Cities can organize public awareness campaigns that emphasize the importance of wearing helmets, obeying traffic signals, and maintaining safe speeds. Schools, community centers, and workplaces can serve as venues for educational programs targeting young riders and commuters. Furthermore, partnerships with e-bike manufacturers, retailers, and ride-sharing services can help reinforce safe riding habits. When purchasing or renting an e-bike, riders should receive informational materials and safety tips. Public service announcements, social media campaigns, and outreach events can also play a crucial role in spreading awareness.
 
+
+OKR 3.
+Objective:
+Ride4U will use analytics data responsibly to provide a website and mobile app with a seamless and intuitive user experience by the end of our first year.
+Key stakeholders include users of the site and the company providing the site.
+Ride4U embraces diversity and values bringing communities together.
+So, ideally, its services should be designed to accommodate users of any demographic.
+For this objective, Ride4U must focus especially on tech novices who may not be familiar with website navigation but may still need to look for eco-friendly means of transportation.
+Ride4U must also ensure its services accommodate low-income groups and provide them with affordable options.
+For this objective, the users’ and company’s relationship is transactional.
+The user provides information about their activity on Ride4U’s sites and services.
+Then the company uses that information to revise the site and improve the user experience.
+
+Key Results:
+To measure this objective’s success, we could conduct usability tests—evaluating whether users can complete important tasks successfully and independently.
+Specifically, we can ask a sample size of 300 new users about which of our service’s features they actually use.
+These features might include:  
+- Locating nearby e-bike charging stations where users can rent and charge e-bikes  
+- Booking an e-bike to rent in advance  
+- Check the status of e-bikes in real time  
+- Finding e-bike friendly routes  
+- Contacting customer service  
+If at least 70% of our users can find and complete their desired tasks in under 30 seconds without needing to use our site’s search feature, then we have successfully provided an intuitive user experience.
+We focus on new users in this test because their input is more useful. If a new user can navigate our site with little hassle, then an experienced user can definitely do so, too.  
+
+Additionally, after the usability test, participants could take a survey about their experience with using the site.
+We will ask them:  
+* On a scale of 1–10, how satisfied are you with your experience using this site?  
+* Were any of the services provided particularly difficult to use or understand?  
+* Would you recommend this site to others?  
+  If at least 80% of users are satisfied with their experience, then we can be sure that we have provided our users with not only an intuitive experience but an enjoyable one as well.
+Feedback we receive from this survey will also be helpful in figuring out which features we need to prioritize improving.  
+
+In order to provide a seamless experience, our site must also be reliable.
+An experiment we could perform to measure this metric involves using tools to monitor our servers’ uptime.
+If, over the course of our first year, our servers can maintain an uptime of at least 99%, then we have succeeded at providing a reliable experience for our users.
+Regardless of whether we achieve this quota, we should also make information about our servers’ uptime available to our users.
+This way, we can hold ourselves accountable in being honest with our servers’ reliability.
