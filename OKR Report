@@ -1,10 +1,21 @@
-OKR 1. 
-Objective:
+# 1: Ethical Business Plan
+
+## 1.A. Company Name: Ride4U
+
+Ride4U is an e-bike company that aims to make eco-friendly transportation accessible and affordable. 
+The company provides e-bikes as well as a website and mobile app to help users find places to rent and charge them. Most data will be stored on our servers. 
+This data includes information about our e-bike charging stations: where they are located and information about the e-bikes in said stations (their charging status, reservation status, etc.). 
+We may also collect and store analytics data on our servers to facilitate revising our website and app for the best user experience.
+
+## 1.C.1.1 OKR 1 Objective and Key Result
+
 Ride4U is an electric bike renting service allowing people commuting through the city with a reliable form of transportation at a fair price. 
 Using our mobile app you will be able to choose a charge station to pick up a bike. Then using the code provided when completing your transaction you can unlock and ride.
 In the next 5 years Ride4U will expand our reach to the national scale. We wish to provide a convenient, accessible, and speedy form of transportation for our consumers. 
 Our state of the art, electric bikes will provide the community with more options for their commute. Our goal is to have an e-bike charging station in every major city in the United States. 
 To accomplish this massive goal we have some key results we want to reach. 
+
+## 1.C.1.2 OKR 1 Metric(s) with Experiment(s)
 
 Key Result 1: Ride4U e-bikes will be available for use in every major city
 Focus has been put into planting the charging stations in the busiest areas of the city to maximize use. We have spared no expense to ensure that our bikes are top of the line. 
@@ -27,20 +38,25 @@ This includes the cost of production for the e-bikes as well as the construction
 Each charging station will hold 8 e-bikes the cost of production being around $3000 each. Each charging station costs approximately $8000 to build. 
 Spread across 366 cities around the U.S. adds up to the 11.7 million dollar sum. Of course we want to ensure that our charging stations follow all the proper city regulations
 
-Ethical Impact/issues:
+## 1.C.1.3 OKR 1 Ethical Impact(s)/Issues(s)
+
 In addition to providing transportation for commuters in the city we also want to emphasize our goal of reducing carbon emission in the U.S. 
 As we are providing an electric vehicle service we hope that we can be used as a substitute for cars, buses, and motorcycles that have a high carbon footprint. 
 We also want to be transparent on the ecological concerns of our e-bikes. The recycling of e-bike batteries can be very difficult and if not done properly can turn into environmental pollution.
 
-Ethical Safeguard:
+## 1.C.1.4 OKR 1 Ethical Safeguards
+
 To combat this risk we take absolute responsibility for our batteries, making sure that they are properly recycled to prevent damage to the environment.
 
 
-OKR 2. 
-Objective: Speak with city officials to ensure safety on the road (Samuel)
+## 1.C.2.1 OKR 2 Objective and Key Result
+
+Speak with city officials to ensure safety on the road (Samuel)
 E-bikes have become an increasingly popular mode of transportation, offering an efficient, eco-friendly and cost-effective way to travel. 
 However, with their growing presence on the roads, it is crucial to ensure they adhere to all traffic regulations and maintain the safety of both riders and pedestrians. 
 Engaging with city officials to address r-bike safety can lead to improved infrastructure, better enforcement of regulations, and increased public awareness.  
+
+## 1.C.2.2 OKR 2 Metric(s) with Experiment(s)
 
 Key Result: Ensure that E-Bikes Follow All Road Regulations and Guarantee Passenger Safety.
 One of the most pressing concerns regarding e-bikes is the compliance with existing traffic laws. Many cities have different classifications for e-bikes based on their speed, motor power, and whether they require pedaling.  
@@ -68,8 +84,8 @@ Key Result: Promote Community Awareness Programs to Ensure Both E-bike Riders an
 Public education is a vital component of ensuring e-bike safety. Both riders and other road users, such as motorists and pedestrians, should be aware of the unique characteristics of e-bikes and how to share the road safely. Cities can organize public awareness campaigns that emphasize the importance of wearing helmets, obeying traffic signals, and maintaining safe speeds. Schools, community centers, and workplaces can serve as venues for educational programs targeting young riders and commuters. Furthermore, partnerships with e-bike manufacturers, retailers, and ride-sharing services can help reinforce safe riding habits. When purchasing or renting an e-bike, riders should receive informational materials and safety tips. Public service announcements, social media campaigns, and outreach events can also play a crucial role in spreading awareness.
 
 
-OKR 3.
-Objective:
+## 1.C.3.1 OKR 3 Objective and Key Result
+
 Ride4U will use analytics data responsibly to provide a website and mobile app with a seamless and intuitive user experience by the end of our first year.
 Key stakeholders include users of the site and the company providing the site.
 Ride4U embraces diversity and values bringing communities together.
@@ -80,7 +96,8 @@ For this objective, the users’ and company’s relationship is transactional.
 The user provides information about their activity on Ride4U’s sites and services.
 Then the company uses that information to revise the site and improve the user experience.
 
-Key Results:
+## 1.C.3.2 OKR 3 Metric(s) with Experiment(s)
+
 To measure this objective’s success, we could conduct usability tests—evaluating whether users can complete important tasks successfully and independently.
 Specifically, we can ask a sample size of 300 new users about which of our service’s features they actually use.
 These features might include:  
@@ -105,3 +122,34 @@ An experiment we could perform to measure this metric involves using tools to mo
 If, over the course of our first year, our servers can maintain an uptime of at least 99%, then we have succeeded at providing a reliable experience for our users.
 Regardless of whether we achieve this quota, we should also make information about our servers’ uptime available to our users.
 This way, we can hold ourselves accountable in being honest with our servers’ reliability.
+
+## 1.C.3.3 OKR 3 Ethical Impact(s)/Issues(s)
+
+With this objective, one of the greatest ethical issues is the possibility of privacy invasion. Many modern web browsers and sites sell user data to advertisers, so some users may worry that we will do the same. The court case Calhoun v. Google, LLC showcases an example of this ethical issue. In the case, plaintiffs alleged that “Google intentionally and unlawfully causes Chrome to record and send users’ personal information to Google regardless of whether a user elects to Sync or even has a Google account” \[1, p. 7\]. While the court case has not fully been resolved, it highlights the complexities of user privacy and tech companies’ data handling practices.
+
+This table provides a summary of other expected ethical risks:
+
+Table I  
+Expected Ethical Impact Risk Table
+
+| Stakeholders | Financial Risk | Privacy Risk | Conflicting Interests Risk | Violation of Rights Risk |
+| :----------- | :------------- | :----------- | :------------------------- | :----------------------- |
+| User         | none           | high         | mid                        | high                     |
+| Company      | mid            | low          | mid                        | low                      |
+
+Analysis of Ethical Impact Risk:  
+User: For users, there is no direct correlation between using Ride4U’s site and financial risks. Regarding privacy, not all users are comfortable with their data being collected without full knowledge of how that data is going to be used and for how long. Users have the right to decide how their data is handled. And if data is not handled properly, then service optimization can incur a high risk of violating these rights. Meanwhile, this objective has a medium conflicting interest risk. Not everyone will use the site the same way. Some users may need to locate places to rent or charge e-bikes; others may use the site to find e-bike-friendly routes; etc.  
+Company: Ride4U may want to experiment with different layouts of its site to see what works best for its users. The costs, both in time and money, of doing so can add up over time. Additionally, if the company mishandles user data, they could incur major fines and face legal challenges. The only data that the company handles that belongs to them is their servers’ uptime. While a breach is possible, this information in particular is already made public, so the company runs little risk with their own privacy. Likewise, the company does not run much of a risk of violating their own rights either. Regarding conflicting interests, the company’s intentions with the site may not always match how users actually end up using the site, so the company will have to keep this in mind.
+
+## 1.C.3.4 OKR 3 Ethical Safeguards
+
+From the court case Ferguson et al. v. Apple, we learn that honesty and transparency are essential to providing a good user experience while maintaining trust. In this case, Apple never disclosed that their iOS updates 10.1.1, 10.2.1, and 11.2.0 “negatively impact the performance or utility of \[the iPhone SE, 6, 6 Plus, 6s, 6s Plus, 7, and 7 Plus\]” \[2, p. 5\].
+
+As a consequence of withholding this information, plaintiffs alleged that Apple violated California’s Unfair Competition Law “by making material misrepresentations and failing to disclose material information regarding certain iOS updates” and because their conduct “was immoral, unethical, oppressive, unscrupulous, unconscionable, and/or substantially injurious” \[2, pp. 17–18\].  
+Of the factors we have considered, users’ privacy is at the highest risk when it comes to handling analytics data. As a safeguard, website and UI designers can implement a notification that shows up as soon as a user registers for an account. 
+The notification alerts them that we would like to collect data about how they use the site. 
+Then, they can decide to opt in or opt out of data collection. 
+They may choose to change this decision in the future if they wish. We will let the user know that this data will be deleted after 30 days, and we will clarify why we are using the data: to deduce what we need to focus on when optimizing our site and our users’ experience. 
+While this objective should not require any users’ personal data, requesting consent is important because “Users are becoming increasingly aware of their data rights. Implementing robust consent management practices demonstrates a commitment to user privacy, thereby building trust and enhancing reputation” \[3\]. 
+By implementing this safeguard, we can show users that we respect their privacy and that they can trust us with their data.  
+To measure the effectiveness of this safeguard, we can measure the number of users who choose to opt in to data collection. If over 70% of users opt in, then our safeguard is effective at assuring our users that we will handle their data responsibly. Otherwise, we will have to revise this safeguard or how we handle users’ data.
