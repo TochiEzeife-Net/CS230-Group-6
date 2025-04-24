@@ -110,7 +110,51 @@ program could also be beneficial. Riders who complete a short safety course coul
 incentivizing responsible riding and increasing overall awareness.
 
 Key Result: Promote Community Awareness Programs to Ensure Both E-bike Riders and other Road users Understand safe practices.
-Public education is a vital component of ensuring e-bike safety. Both riders and other road users, such as motorists and pedestrians, should be aware of the unique characteristics of e-bikes and how to share the road safely. Cities can organize public awareness campaigns that emphasize the importance of wearing helmets, obeying traffic signals, and maintaining safe speeds. Schools, community centers, and workplaces can serve as venues for educational programs targeting young riders and commuters. Furthermore, partnerships with e-bike manufacturers, retailers, and ride-sharing services can help reinforce safe riding habits. When purchasing or renting an e-bike, riders should receive informational materials and safety tips. Public service announcements, social media campaigns, and outreach events can also play a crucial role in spreading awareness.
+Public education is a vital component of ensuring e-bike safety. Both riders and other road users, such as motorists and 
+pedestrians, should be aware of the unique characteristics of e-bikes and how to share the road safely. Cities can organize 
+public awareness campaigns that emphasize the importance of wearing helmets, obeying traffic signals, and maintaining safe 
+speeds. Schools, community centers, and workplaces can serve as venues for educational programs targeting young riders and 
+commuters. Furthermore, partnerships with e-bike manufacturers, retailers, and ride-sharing services can help reinforce 
+safe riding habits. When purchasing or renting an e-bike, riders should receive informational materials and safety tips. 
+Public service announcements, social media campaigns, and outreach events can also play a crucial role in spreading awareness.
+
+## 1.C.2.2 OKR 2 Ethical Impact(s)/Issues(s)
+
+OKR 2: Expected Ethical Impact Risk Table
+
+| Stakeholders   | Financial Risk | Privacy Risk | Conflicting Interests Risk | Violation of Rights Risk |
+|----------------|----------------|--------------|----------------------------|--------------------------|
+| E-Bike Riders  | mid            | low          | mid                        | high                     |
+| Pedestrians    | none           | none         | mid                        | low                      |
+| Company        | mid            | none         | low                        | none                     |
+| City Officials | high           | none         | low                        | none                     |
+
+Analysis of Ethical Impact Risks:
+
+E-Bike Riders: For e-bike riders, this OKR poses a medium financial risk because it may require riders to purchase 
+safety equipment (e.g., helmets) in addition to renting e-bikes in order to comply with safety regulations. Riders’ 
+privacy risk is low, but city officials may need to track e-bikes’ locations, which can come at the expense of riders’ 
+privacy. Some regulations (e.g., more bike lanes) may come at the expense of other modes of transportation (e.g., fewer 
+car lanes, less funding for public transit, etc.), which can incur a conflict of interests. Additionally, some regulations 
+can end up being too harsh for some e-bike riders. Those riders may feel discriminated against or believe that their 
+rights are being violated.
+
+Pedestrians: Pedestrians should not need to worry about financial risks. They don’t pay to walk, and e-bike safety 
+regulations shouldn’t change that. They shouldn’t have to worry about privacy violations either because most e-bike safety 
+regulations shouldn’t directly affect them. Regarding interests, regulating e-bikes can force pedestrians to change their 
+behavior (e.g., by needing to be more mindful of e-bikes). While these conflicting interests can change the way people 
+perceive pedestrians’ rights, these regulations should not affect pedestrians’ rights to a major extent.
+
+Company: The company may need to spend their own funds to ensure that their e-bikes and charging stations comply with 
+cities’ safety regulations. To compensate for this extra spending, it may need to raise e-bike prices, and it needs to 
+be careful not to make e-bikes too expensive for the average user. Otherwise, this objective does not affect the company 
+directly, so their privacy and rights should not be at risk. The company’s interests regarding this objective include 
+making e-bikes safe and affordable, which should not conflict with other stakeholders’ interests.
+
+City Officials: Of all the stakeholders, city officials need to spend the most money to carry out this objective. 
+They are the ones who need to fund infrastructure, education, signage, and other forms of e-bike regulation. Like the 
+company, this objective should not risk city officials’ privacy or rights. The city officials’ interests regarding this 
+objective include ensuring road safety, which should not conflict with other stakeholders’ interests.
 
 
 ## 1.C.3.1 OKR 3 Objective and Key Result
@@ -158,16 +202,17 @@ With this objective, one of the greatest ethical issues is the possibility of pr
 
 This table provides a summary of other expected ethical risks:
 
-Table I  
-Expected Ethical Impact Risk Table
+OKR 3: Expected Ethical Impact Risk Table
 
 | Stakeholders | Financial Risk | Privacy Risk | Conflicting Interests Risk | Violation of Rights Risk |
 | :----------- | :------------- | :----------- | :------------------------- | :----------------------- |
 | User         | none           | high         | mid                        | high                     |
 | Company      | mid            | low          | mid                        | low                      |
 
-Analysis of Ethical Impact Risk:  
+Analysis of Ethical Impact Risks:
+
 User: For users, there is no direct correlation between using Ride4U’s site and financial risks. Regarding privacy, not all users are comfortable with their data being collected without full knowledge of how that data is going to be used and for how long. Users have the right to decide how their data is handled. And if data is not handled properly, then service optimization can incur a high risk of violating these rights. Meanwhile, this objective has a medium conflicting interest risk. Not everyone will use the site the same way. Some users may need to locate places to rent or charge e-bikes; others may use the site to find e-bike-friendly routes; etc.  
+
 Company: Ride4U may want to experiment with different layouts of its site to see what works best for its users. The costs, both in time and money, of doing so can add up over time. Additionally, if the company mishandles user data, they could incur major fines and face legal challenges. The only data that the company handles that belongs to them is their servers’ uptime. While a breach is possible, this information in particular is already made public, so the company runs little risk with their own privacy. Likewise, the company does not run much of a risk of violating their own rights either. Regarding conflicting interests, the company’s intentions with the site may not always match how users actually end up using the site, so the company will have to keep this in mind.
 
 ## 1.C.3.4 OKR 3 Ethical Safeguards
